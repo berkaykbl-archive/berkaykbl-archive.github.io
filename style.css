@@ -13,6 +13,9 @@ header > ul {
   max-height: 100%;
   flex: 1;
 }
+header img {
+  height: 80%;
+}
 
 .row-0 {
   display: flex;
